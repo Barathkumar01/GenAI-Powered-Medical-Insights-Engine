@@ -1,0 +1,12 @@
+openai
+langchain
+praw
+beautifulsoup4
+lxml
+streamlit
+huggingface-hub
+transformers
+scikit-learn
+spacy
+pandas
+matplotlib
