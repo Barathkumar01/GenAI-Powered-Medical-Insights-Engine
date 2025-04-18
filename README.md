@@ -35,3 +35,11 @@ Traditional medical research analysis is time-consuming and reactive. This proje
 **Data Sources**  
 - PubMed Medline (XML format)  
 - Reddit Healthcare Posts (via Reddit API using PRAW)
+
+**Install Requirements**
+pip install -r requirements.txt
+
+**Run the Streamlit App**
+streamlit run app/app.py
+
+
